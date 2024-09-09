@@ -1,1 +1,1 @@
-# csv-editor-website
+# Exhibit mode control panel README

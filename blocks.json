@@ -1,0 +1,15 @@
+{
+    "BM": ["BM221", "BM205", "BM203", "BM206", "BM207", "BM208", "BM216", "BM213", "BM215", "BM214 Projector", "BM211", "BM218 Projector", "BM231", "BM232", "BM234", "BM303 Projector", "BM307", "BM302 Projector", "BM305", "BM308", "BM314", "BM324 Projector", "BM319", "BM326", "Gym", "BM202 Projector"],
+    "MF": ["MF104", "MF105", "MF106", "MF102"],
+    "CB": ["CB103 Projector", "CB108 Projector", "CB106 Projector", "CB105 Projector", "CB104 Projector", "CB101 Projector", "CB102 Projector"],
+    "EA": ["EA105 Projector", "EA106 Projector", "EA209 Projector", "EA207 Projector", "EA203 Projector", "EA003"],
+    "CS": ["CS103", "CS101"],
+    "Misc": ["CMWTestDevice", "AP PC", "Principal", "testdevice"],
+    "SM": ["HSIE Staffroom"],
+    "SC": ["SC104 Projector", "SC105 Projector", "SC107 Projector", "SC109 Projector"],
+    "D": ["D101", "D102", "D103", "D104", "D105", "D106"],
+    "Forum": [],
+    "Mercy Chapel": [],
+    "Fr. David Scott Resource Centre": [],
+    "Meeting Rooms": ["MeetingRoom3"]
+}

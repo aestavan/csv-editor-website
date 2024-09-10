@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Wallpapers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="upload-container">
+        <h1>Upload Wallpapers</h1>
+        <div id="tv-name" class="tv-name"></div>
+        <div id="tv-file-name" class="tv-file-name"></div>
+        <div class="wallpaper-section">
+            <div class="current-wallpapers" id="current-wallpapers">
+                <h2>Current Wallpapers</h2>
+            </div>
+            <div class="upload-wallpapers">
+                <div class="upload-section">
+                    <label for="upload-wallpaper-1">Upload Wallpaper 1:</label>
+                    <input type="file" id="upload-wallpaper-1">
+                    <img id="preview-wallpaper-1" class="preview-image">
+                </div>
+                <div class="upload-section">
+                    <label for="upload-wallpaper-2">Upload Wallpaper 2:</label>
+                    <input type="file" id="upload-wallpaper-2">
+                    <img id="preview-wallpaper-2" class="preview-image">
+                </div>
+                <button id="apply-button">Apply</button>
+            </div>
+        </div>
+        <div class="previous-wallpapers" id="previous-wallpapers">
+            <h2>Previous Wallpapers</h2>
+        </div>
+    </div>
+    <script src="upload.js"></script>
+</body>
+</html>

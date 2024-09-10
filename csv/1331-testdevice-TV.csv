@@ -1,0 +1,3 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+wallpaper1,http://10.176.217.139/atv/images/testdevice/testdevice-wallpaper1.png,01:00:00,01:00:00,1/1/2018 00:00,12/31/30 23:59,no
+wallpaper2,http://10.176.217.139/atv/images/testdevice/testdevice-wallpaper2.png,01:00:00,01:00:00,1/1/2018 00:00,12/31/30 23:59,no
